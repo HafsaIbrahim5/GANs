@@ -9,7 +9,8 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 
 **An interactive educational dashboard for exploring Generative Adversarial Networks**
-
+## 🚀 Live Demo  
+[🔗 View Live App](https://jcyvvdl3n2ze4hfsmagjiy.streamlit.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hafsa%20Ibrahim-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/hafsa-ibrahim-ai-mi/)
 [![GitHub](https://img.shields.io/badge/GitHub-HafsaIbrahim5-181717?style=flat&logo=github)](https://github.com/HafsaIbrahim5)
 
